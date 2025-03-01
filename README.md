@@ -20,8 +20,10 @@ Requirements:
 Installation Steps:
 -------------------
 1. Clone the Repository:
+
    a. Open a terminal (or Command Prompt) on your computer.
-   b. Run the following command to clone the repository:
+
+    b. Run the following command to clone the repository:
       
       git clone https://github.com/Denis69420/DB-Panel.git
 
@@ -29,8 +31,9 @@ Installation Steps:
       
       cd DB-Panel
 
-2. Setup the Backend:
-   a. Navigate to the backend directory:
+3. Setup the Backend:
+
+    a. Navigate to the backend directory:
       
       cd backend
 
@@ -42,7 +45,8 @@ Installation Steps:
       - If needed, create a file named ".env" in the backend folder.
       - Add your database connection details and other configuration settings.
 
-3. Setup the Frontend:
+5. Setup the Frontend:
+
    a. Navigate to the frontend directory:
       
       cd ../frontend
@@ -58,7 +62,8 @@ Installation Steps:
 Running the Application:
 ------------------------
 1. Start the Backend Server:
-   a. Navigate to the backend directory (if not already there):
+
+    a. Navigate to the backend directory (if not already there):
       
       cd backend
 
@@ -68,8 +73,9 @@ Running the Application:
 
    - The server typically runs on port 3000 (unless configured otherwise).
 
-2. Start the Frontend Server:
-   a. Navigate to the frontend directory:
+3. Start the Frontend Server:
+
+    a. Navigate to the frontend directory:
       
       cd frontend
 
